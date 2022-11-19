@@ -1,24 +1,16 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 </div>
 
-### :computer: About me
+### About me
 
 :grin: I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
 
-### Languages
+### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,cpp)](https://skillicons.dev)
-
-### Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap)](https://skillicons.dev)
-
-### Other
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp,nodejs,nextjs,bootstrap,html,css,tailwind,git)](https://skillicons.dev)
 
 ### You can find me on
 
@@ -31,7 +23,7 @@
   </a>
 </div>
 
-![dzakyjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&show_icons=true&theme=tokyonight)
+<!-- ![dzakyjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&show_icons=true&theme=tokyonight) -->
 
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
