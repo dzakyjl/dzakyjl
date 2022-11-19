@@ -4,9 +4,9 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 </div>
 
-### About me
+### About me :grin:
 
-:grin: I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
+I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
 
 ### Currently Learning
 
