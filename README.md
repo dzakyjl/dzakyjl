@@ -6,31 +6,26 @@ I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm
 
 ### Language
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cpp" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp)](https://skillicons.dev)
 
 ### Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs," />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap)](https://skillicons.dev)
 
 ### Other
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,vercel,git" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git)](https://skillicons.dev)
+
+### You can find me on
+
+<i class="fa-brands fa-linkedin"></i>
+
+[1]: https://instagram.com/dzakyjl
+[2]: https://www.linkedin.com/in/ahmaddzakyjamaludin/
 
 ![dzakyjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dzakyjl/dzakyjl/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
