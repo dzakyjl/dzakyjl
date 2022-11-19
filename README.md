@@ -1,31 +1,49 @@
 ### Hi there 👋
 
-:sunglasses:
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
+</div>
 
-I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
+<br>
 
-### Language
+### :computer: About me
+
+:grin: I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
+
+<br>
+
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cpp)](https://skillicons.dev)
+
+<br>
 
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap)](https://skillicons.dev)
 
+<br>
+
 ### Other
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,git)](https://skillicons.dev)
 
+<br>
+
 ### You can find me on
 
-<i class="fa-brands fa-linkedin"></i>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/dzakyjl">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge"/>
+  </a>
+</div>
 
-[1]: https://instagram.com/dzakyjl
-[2]: https://www.linkedin.com/in/ahmaddzakyjamaludin/
+<br></br>
 
 ![dzakyjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&show_icons=true&theme=tokyonight)
-
-![Snake animation](https://github.com/dzakyjl/dzakyjl/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
