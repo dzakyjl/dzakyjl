@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
+
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
