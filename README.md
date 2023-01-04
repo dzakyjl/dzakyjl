@@ -10,7 +10,7 @@ I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm
 
 ### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,cpp,nodejs,nextjs,bootstrap,html,css,tailwind,git,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp,dart,flutter,nodejs,nextjs,bootstrap,html,css,tailwind,git)](https://skillicons.dev)
 
 ### You can find me on
 
