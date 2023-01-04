@@ -22,7 +22,7 @@ I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@dzakyjl">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="Youtube Logo"/>
+    <img src="https://skillicons.dev/icons?i=yt" alt="Youtube Logo"/>
   </a>
 </div>
 
