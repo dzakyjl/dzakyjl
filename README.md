@@ -21,10 +21,6 @@ I'm Dzaky, a student majoring in chemistry who passionate into coding stuff. I'm
   <a href="https://instagram.com/dzakyjl">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/@dzakyjl">
-    <img src="https://skillicons.dev/icons?i=yt" alt="Youtube Logo"/>
-  </a>
-</div>
 
 <!-- ![dzakyjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&show_icons=true&theme=tokyonight) -->
 
