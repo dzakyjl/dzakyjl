@@ -6,7 +6,7 @@
 
 ### About me :grin:
 
-I'm Dzaky, currently a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and data science.
+I'm Dzaky, currently a student majoring in chemistry who passionate into coding stuff. I'm a rookie developer interested in web development and mobile development.
 
 ### Currently Learning
 
