@@ -1,11 +1,11 @@
 ![](cs.gif)
 
 ### Hi there 👋
+-------------------------
+Dzaky is a 2nd year student @UGM who is passionate about Data Science, Machine Learning, and AI, as well as cats and a never-ending desire to learn.
 
-- 🔭 I’m a 2nd year student at UGM
-- 📊 I’m currently learning Data Science, Machine Learning and AI
+-------------------------
 - 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
-- 🙀 Fun fact: I love cats 
 - ⭐️ Programming Language:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m a 2nd year student at UGM
+- 📊 I’m currently learning Data Science, Machine Learning and AI
+- 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
+- 🙀 Fun fact: I love cats 
 
 ![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
 -->
