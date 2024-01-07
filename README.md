@@ -5,18 +5,19 @@
 Dzaky is a 2nd year student @UGM who is passionate about Data Science, Machine Learning, and AI, as well as cats and a never-ending desire to learn. ∞
 
 -------------------------
-- 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
-- ⭐️ Programming Language:
+⭐️ Programming Language:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
 
 -------------------------
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+📫 Reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
+<p>
+  <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
+    <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyjl&layout=compact&theme=outrun)
-
 
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +39,6 @@ Here are some ideas to get you started:
 - 🙀 Fun fact: I love cats 
 
 ![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 -->
