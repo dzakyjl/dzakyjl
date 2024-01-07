@@ -11,9 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyjl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyjl&layout=compact&theme=tokyonight)
 
-![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
+
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
 -->
