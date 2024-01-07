@@ -4,7 +4,7 @@
 
 - 🔭 I’m a 2nd year student at UGM
 - 📊 I’m currently learning Data Science, Machine Learning and AI
-- - 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
+- 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
 - 🙀 Fun fact: I love cats 
 - ⭐️ Programming Language:
 
