@@ -6,8 +6,10 @@
 
 
 ## ⭐️ Programming Language
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ## 📫 Reach me
@@ -37,6 +39,8 @@ Here are some ideas to get you started:
 - 📊 I’m currently learning Data Science, Machine Learning and AI
 - 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
 - 🙀 Fun fact: I love cats 
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
 
 ![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
 
