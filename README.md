@@ -1,3 +1,5 @@
+![](cs.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m a 2nd year student at UGM
