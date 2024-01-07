@@ -2,14 +2,14 @@
 
 ## Hi there 👋
 
-### Dzaky is a 2nd year student @UGM who is passionate about Data Science, Machine Learning, and AI, as well as cats and a never-ending desire to learn. ∞
+#### Dzaky is a 2nd year student @UGM who is passionate about Data Science, Machine Learning, and AI, as well as cats and a never-ending desire to learn. ∞
 
--------------------------
+
 ## ⭐️ Programming Language
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
 
--------------------------
+
 ## 📫 Reach me
 <p>
   <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
