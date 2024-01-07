@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
     <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://open.spotify.com/user/dqo8peqilcukde4hln59iqsq7?si=373d40bbb285446d">
+  <a href="https://open.spotify.com/user/dqo8peqilcukde4hln59iqsq7?si=373d40bbb285446d">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
