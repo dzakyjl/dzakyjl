@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m a 2nd year student at UGM
+- 📊 I’m currently learning Data Science and Machine Learning
+- 🙀 Fun fact: I love cats 
+- ⭐️ Programming Language: [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,pytorch,docker)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
 **dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
