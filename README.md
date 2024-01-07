@@ -4,7 +4,7 @@
 - 📊 I’m currently learning Data Science, Machine Learning and AI
 - 🙀 Fun fact: I love cats 
 - ⭐️ Programming Language:
-- [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,pytorch,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,pytorch,docker)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
